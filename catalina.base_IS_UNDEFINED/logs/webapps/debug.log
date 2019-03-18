@@ -1,0 +1,9 @@
+2019-02-02 16:15:35.166 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - ==>  Preparing: SELECT area_id, area_name, priority, create_time, last_edit_time FROM tb_area ORDER BY priority DESC 
+2019-02-02 16:15:35.202 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - ==> Parameters: 
+2019-02-02 16:15:35.223 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - <==      Total: 2
+2019-02-02 16:15:50.623 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - ==>  Preparing: SELECT area_id, area_name, priority, create_time, last_edit_time FROM tb_area ORDER BY priority DESC 
+2019-02-02 16:15:50.652 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - ==> Parameters: 
+2019-02-02 16:15:50.712 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - <==      Total: 2
+2019-02-02 16:17:52.580 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - ==>  Preparing: SELECT area_id, area_name, priority, create_time, last_edit_time FROM tb_area ORDER BY priority DESC 
+2019-02-02 16:17:52.611 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - ==> Parameters: 
+2019-02-02 16:17:52.630 [main] DEBUG org.ymh.o2o.dao.AreaDao.queryAreaList - <==      Total: 2
